@@ -1,0 +1,4 @@
+temperature sensor signal pin -analog 0
+flow sensor pin - digital 2
+buzzer sensor pin - digital 5
+led strip pin - digital 7 

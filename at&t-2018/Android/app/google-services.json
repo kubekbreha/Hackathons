@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1064373554408",
+    "firebase_url": "https://smartbottle-2e8b4.firebaseio.com",
+    "project_id": "smartbottle-2e8b4",
+    "storage_bucket": "smartbottle-2e8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064373554408:android:d783eafc6fd61373",
+        "android_client_info": {
+          "package_name": "sk.spacecode.smartbottle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064373554408-0hl9did7nkrlovs4f5fvn8ant5qim54d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4r2mj7She-LN4LJp73_oVajM56gGlXTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                android:background="@drawable/bg_gradient"
+                tools:context=".RegisterBottleActivity">
+
+    <TextView
+            android:id="@+id/activity_register_bottle_bottleId_tittle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:text="Protect your bottle"
+            android:textStyle="bold"
+            android:textAlignment="textStart"
+            android:layout_margin="16dp"
+            android:textSize="48sp"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="16dp"
+            android:paddingTop="40dp"/>
+
+    <TextView
+            android:id="@+id/activity_register_bottle_bottleId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="96dp"/>
+
+    <EditText
+            android:id="@+id/activity_personal_details_name_input"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentEnd="true"
+            android:layout_above="@id/activity_register_bottle_firebase"
+            android:background="@drawable/rounded_input"
+            android:hint="Enter your password"
+            android:maxLines="1"
+            android:textSize="16sp"
+            android:paddingTop="16dp"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:paddingBottom="21dp"
+            android:layout_margin="16dp"
+            android:inputType="textPassword"
+            android:layout_marginBottom="32dp"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#b3b3b3"
+            tools:ignore="TextFields"/>
+
+
+    <Button
+            android:id="@+id/activity_register_bottle_firebase"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/button_background"
+            android:elevation="0dp"
+            android:textAllCaps="false"
+            android:text="Register"
+            android:stateListAnimator="@null"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="64dp"/>
+
+</RelativeLayout>
