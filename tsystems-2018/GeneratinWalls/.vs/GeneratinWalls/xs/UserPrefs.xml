@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{BD578320-5201-A037-0AAF-5D1866B53D30}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HelloARController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HelloARController.cs" Line="182" Column="25" />
+      <File FileName="Assets/Shaders/StencilFilter.shader" Line="8" Column="2" />
+      <File FileName="Assets/Shaders/SpecularSpencilFilter.shader" Line="52" Column="4" />
+      <File FileName="Assets/Shaders/PortalWindow.shader" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/StandardSpencilFilter.shader" Line="244" Column="34" />
+      <File FileName="Assets/Scripts/GhostController.cs" Line="34" Column="14" />
+      <File FileName="Assets/Scripts/PacManScript.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/CollisionDevice.cs" Line="26" Column="1" />
+      <File FileName="Assets/MonsterController.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
